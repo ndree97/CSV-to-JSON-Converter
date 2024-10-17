@@ -9,7 +9,7 @@ This repository contains a simple Python script that converts a CSV file to a JS
 
 ## Requirements
 - Python 3.x
-- CSV file (e.g., `pokemon.csv`)
+- CSV file (e.g., `file.csv`)
 
 ## How to Use
 
